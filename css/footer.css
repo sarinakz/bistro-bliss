@@ -1,0 +1,10 @@
+.footer-childs {
+  a {
+    color: #a4a69c;
+  }
+  h6 {
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+}

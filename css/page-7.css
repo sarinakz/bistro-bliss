@@ -1,0 +1,44 @@
+.page-seven-btn {
+  background-color: #ad343e;
+  color: #fff;
+  border: 1px solid;
+  border-radius: 30px;
+  padding: 15px 25px;
+}
+.page-seven-grandchilds-info1 {
+  height: 276px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 15px;
+  padding: 30px;
+  background-color: #fff;
+  span {
+    color: #737865;
+  }
+  h5 {
+    font-weight: bold;
+    font-size: 18px;
+  }
+  p {
+    color: #4b4d47;
+    font-weight: 500;
+  }
+}
+.page-seven-grandchilds-info2 {
+  width: 306px;
+  height: 154px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 15px;
+  padding: 20px;
+  background-color: #fff;
+  span {
+    color: #737865;
+  }
+  p {
+    color: #4b4d47;
+    font-weight: 500;
+  }
+}

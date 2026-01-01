@@ -1,0 +1,11 @@
+.page-four-childs {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  h4{
+    font-size: 20px;
+  }
+  p {
+    font-size: 15px;
+  }
+}

@@ -1,0 +1,16 @@
+@import url(./header.css);
+@import url(./page-1.css);
+@import url(./page-2.css);
+@import url(./page-3.css);
+@import url(./page-4.css);
+@import url(./page-6.css);
+@import url(./page-7.css);
+@import url(./footer.css);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+/* # sourceMappingURL=main.css.map */

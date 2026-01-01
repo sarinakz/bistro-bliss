@@ -1,0 +1,20 @@
+.page-two-grandchilds {
+  width: 306px;
+  height: 375px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  box-shadow: 0px 5px 15px 5px #beb5b5;
+  border-radius: 15px;
+  h2 {
+    font-size: 2rem;
+  }
+  p {
+    text-align: center;
+  }
+  a {
+    color: #ad343e;
+    font-weight: bold;
+  }
+}

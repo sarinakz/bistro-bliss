@@ -1,0 +1,18 @@
+.page-three-parent{
+    margin: 150px 20px;
+}
+.page-three-childs-info {
+  font-size: 2rem;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border-radius: 15px;
+  padding: 50px;
+}
+.page-three-btn {
+  border: 1px solid black;
+  border-radius: 27px;
+  padding: 15px 25px;
+  font-weight: bold;
+}

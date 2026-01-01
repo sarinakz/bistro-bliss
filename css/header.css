@@ -1,0 +1,16 @@
+.menu > a {
+  padding: 5px 10px;
+  font-weight: 500;
+}
+.menu > a:hover {
+  background-color: #dbdfd0;
+  border-radius: 20px;
+}
+.header-btn {
+  border: 1px solid black;
+  border-radius: 20px;
+  padding: 5px 15px;
+  &:hover {
+    background-color: #dbdfd085;
+  }
+}
